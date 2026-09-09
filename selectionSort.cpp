@@ -20,7 +20,7 @@ void printArray(int array[], int size)
 void selectionSort(int array[], int size)
 {
     cout << "Starting Selection Sort:\n"
-        << endl;
+        j<< endl;
 
     for (int step = 0; step < size - 1; step++)
     {
